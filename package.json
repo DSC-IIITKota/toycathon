@@ -1,0 +1,19 @@
+{
+  "name": "toycathon",
+  "version": "1.0.0",
+  "description": "website for toycathon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSC-IIITKota/toycathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSC-IIITKota/toycathon/issues"
+  },
+  "homepage": "https://github.com/DSC-IIITKota/toycathon#readme"
+}

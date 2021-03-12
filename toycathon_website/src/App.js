@@ -12,12 +12,11 @@ import Services from './Services'
 import Pricing from './Pricing.js';
 import Testimonial from './Testimonial.js';
 
-
 function App() {
+  
   return (
     <div>
     <Home></Home>
-    <Header></Header>
       <main id="main">
         <About></About>
         <Features></Features>
@@ -27,7 +26,6 @@ function App() {
         <Pricing></Pricing>
         <Faq></Faq>
         </main>
-
       <Footer></Footer>
       
     </div>

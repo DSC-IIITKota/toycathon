@@ -16,7 +16,7 @@ function Faq(){
             <a data-toggle="collapse" class="" href="#faq1">Is this hackathon an online event or offline? <i class="icofont-simple-up"></i></a>
             <div id="faq1" class="collapse show" data-parent=".faq-list">
               <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              It is an online event.
               </p>
             </div>
           </li>
@@ -25,8 +25,7 @@ function Faq(){
             <a data-toggle="collapse" href="#faq2" class="collapsed">Who is eligible to participate? <i class="icofont-simple-up"></i></a>
             <div id="faq2" class="collapse" data-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-              </p>
+               Student currently studying in college are allowed to participate.              </p>
             </div>
           </li>
 
@@ -34,7 +33,7 @@ function Faq(){
             <a data-toggle="collapse" href="#faq3" class="collapsed">Is there any registration fee? <i class="icofont-simple-up"></i></a>
             <div id="faq3" class="collapse" data-parent=".faq-list">
               <p>
-                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+              No, registration is completely free of cost.
               </p>
             </div>
           </li>
@@ -43,8 +42,7 @@ function Faq(){
             <a data-toggle="collapse" href="#faq4" class="collapsed">Can I participate without a team? <i class="icofont-simple-up"></i></a>
             <div id="faq4" class="collapse" data-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-              </p>
+              No, it is a team event.Participants need to form a team of minimum two and maximum four members before registration.</p>
             </div>
           </li>
 
@@ -52,17 +50,7 @@ function Faq(){
             <a data-toggle="collapse" href="#faq5" class="collapsed">Still got questions? <i class="icofont-simple-up"></i></a>
             <div id="faq5" class="collapse" data-parent=".faq-list">
               <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-              </p>
-            </div>
-          </li>
-
-          <li data-aos="fade-up" data-aos-delay="600">
-            <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="icofont-simple-up"></i></a>
-            <div id="faq6" class="collapse" data-parent=".faq-list">
-              <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-              </p>
+              Contact us at dsc@iiitkota.ac.in .</p>
             </div>
           </li>
         </ul>

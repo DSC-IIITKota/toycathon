@@ -16,19 +16,27 @@ function Home(){
 
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">A platform</h2>
-          <p class="animate__animated animate__fadeInUp">for the innovators or entrepreneurs of tomorrow to start today towards a smarter India.</p>
+          <h2 class="animate__animated animate__fadeInDown">A Challenge</h2>
+          <p class="animate__animated animate__fadeInUp">For coding enthusiast and budding developers to push their limits and enhance their tech skills</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register</a>
         </div>
       </div>
 
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Opportunity</h2>
+          <h2 class="animate__animated animate__fadeInDown">Providing Opportunity</h2>
           <p class="animate__animated animate__fadeInUp">to gain knowledge on developer technologies, experience of building real world applications.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register</a>
         </div>
       </div>
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">The Technical Skills</h2>
+          <p class="animate__animated animate__fadeInUp">To build innovative minds that encourage students in making prototypes,real-time projects and to provide solutions for any real-time problem</p>
+          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register</a>
+        </div>
+      </div>
+      
 
       <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>

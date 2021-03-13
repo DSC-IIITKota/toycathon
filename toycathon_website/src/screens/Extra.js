@@ -1,7 +1,6 @@
 import React from 'react';
-import './style.css';
 
-function CTA(){
+function Extra(){
     return(
         <section id="cta" class="cta">
       <div class="container">
@@ -21,4 +20,4 @@ function CTA(){
     )
 }
 
-export default CTA;
+export default Extra;

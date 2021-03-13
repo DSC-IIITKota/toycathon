@@ -1,5 +1,4 @@
 import React from 'react';
-import './style.css';
 
 function Pricing(){
     return(<section id="pricing" class="pricing">

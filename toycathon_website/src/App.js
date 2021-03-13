@@ -1,31 +1,32 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Home from './Home.js';
-import About from './About.js'
-import Features from './Features.js'
-import Header from './Header.js'
-import CTA from './CTA.js'
+import Home from './screens/Home.js';
+import About from './screens/About.js'
+import Features from './screens/Features'
+import Extra from './screens/Extra.js'
 import "./style.css";
-import Footer from './Footer.js';
-import Faq from './Faq.js';
-import Services from './Services'
-import Pricing from './Pricing.js';
-import Testimonial from './Testimonial.js';
+import Footer from './screens/Footer.js';
+import Faq from './screens/Faq.js';
+import Services from './screens/Services'
+import Pricing from './screens/Pricing.js';
+import Testimonial from './screens/Testimonial.js';
+import Header from "./screens/Header.js";
 
 function App() {
   
   return (
     <div>
+    <Header></Header>
     <Home></Home>
       <main id="main">
         <About></About>
         <Features></Features>
-        <CTA></CTA>
+        <Extra></Extra>
         <Services></Services>
         <Testimonial></Testimonial>
         <Pricing></Pricing>
         <Faq></Faq>
-        </main>
+      </main>
       <Footer></Footer>
       
     </div>

@@ -63,7 +63,6 @@ function Features(){
                   <li><i class="ri-check-double-line"></i> Originality of the idea, design and functionality and implementation of the idea in a real-time scenario.</li>
                   <li><i class="ri-check-double-line"></i> Judging is based on the software only (web/mobile app and software hack) and any hardware presented to complement the software will not add to the participant's score.</li>
                   <li><i class="ri-check-double-line"></i> Deadline for registration: 15th January 2021.</li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -79,14 +78,12 @@ function Features(){
                 What you would gain from participating?
                 </p>
                 <ul>
+                
                   <li><i class="ri-check-double-line"></i> Awesome swags</li>
                   <li><i class="ri-check-double-line"></i> Participation certificate</li>
                   <li><i class="ri-check-double-line"></i> Unforgettable skills and experience achieved</li>
                 </ul>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
+                
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/features-3.png" alt="" class="img-fluid"></img>

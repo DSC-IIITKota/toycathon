@@ -6,8 +6,8 @@ function About(){
       <div class="container">
 
         <div class="section-title" data-aos="zoom-out">
-          <h2>Who we are</h2>
-          <p>About Us</p>
+          <h2>New to the Challenge?</h2>
+          <p>What is a Hackathon?</p>
         </div>
 
         <div class="row content" data-aos="fade-up">

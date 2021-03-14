@@ -7,11 +7,11 @@ function Extra(){
 
         <div class="row" data-aos="zoom-out">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3>Extra</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>What is Animite.Hack?</h3>
+            <p>.hack is a 48-hour all-accessible hackathon centered on current issues from the field of toy and animation about finding ways to enhance your lifestyle by correlating it to lost heritage and culture of India. It will provide opportunities for students to innovate and build a project. Emphasis will be placed on alleviating social issues through research and collaboration. Through .hack, students will be exposed to a hands-on innovation opportunity that drives social impact through technology, leads them to expand their knowledge of current issues, and to pursue greater career aspirations.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle" href="#">Register</a>
           </div>
         </div>
 

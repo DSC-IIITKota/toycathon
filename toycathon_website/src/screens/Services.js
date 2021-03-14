@@ -6,8 +6,8 @@ return(
       <div class="container">
 
         <div class="section-title" data-aos="zoom-out">
-          <h2>Services</h2>
-          <p>What we do offer</p>
+          <h2>The Challenge</h2>
+          <p>Problem Statements</p>
         </div>
 
         <div class="row">

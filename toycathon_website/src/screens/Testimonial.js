@@ -7,7 +7,7 @@ function Testimonial(){
   
           <div class="section-title" data-aos="zoom-out">
             <h2>Speakers</h2>
-            <p>What they are saying about us</p>
+            <p>Our Guests</p>
           </div>
   
           <div class="owl-carousel testimonials-carousel" data-aos="fade-up">

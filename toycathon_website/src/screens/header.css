@@ -7,7 +7,8 @@ header{
 }
 
 #header.header-scrolled {
-    background: rgba(42, 44, 57, 0.9);
+    /* background: rgba(42, 44, 57, 0.9); */
+    background: #4c3e6d;
 }
 
 .container{
@@ -37,7 +38,8 @@ nav{
 .nav-list{
     width: 25rem;
     height: 100vh;
-    background-color: rgba(24,24,24,0.9);
+    /* background-color: rgba(24,24,24,0.9); */
+    background-color: rgba(76,62,109,0.9);
     position: fixed;
     top: 0;
     right: -26rem;

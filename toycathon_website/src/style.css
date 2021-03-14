@@ -63,8 +63,18 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: linear-gradient(0deg, #311839 0%, #50546e 100%);
+  background:linear-gradient(rgba(223,151,133),rgba(58, 58, 58, 0.45));
+  
   padding: 0;
+}
+
+#hero img{
+  z-index: -1;
+  position: absolute;
+  width:140%;
+  height:120vh;
+  background-repeat: no-repeat;
+  position:absolute;
 }
 
 #hero .carousel-container {
@@ -76,6 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   height: 100vh;
   padding-top: 60px;
+  z-index: 999;
 }
 
 #hero h2 {
@@ -370,6 +381,44 @@ section {
 .cta .cta-btn:hover {
   background: #fff;
   color: #50546e;
+}
+
+@media (max-width: 920px) {
+  #hero img{
+    width: 160%;
+  }
+}
+
+@media (max-width: 769px) {
+
+  #hero{
+    height: 100vh;
+  }
+
+  #hero img{
+    width: 200%;
+  }
+}
+
+@media (max-width: 640px) {
+  #hero img{
+    width: 240%;
+  }
+}
+
+@media (max-width: 530px) {
+  #hero img{
+    width: 280%;
+  }
+}
+
+@media (max-width: 430px) {
+  #hero img{
+    width: 350%;
+  }
+  #hero{
+    height: 95vh;
+  }
 }
 
 @media (max-width: 1024px) {

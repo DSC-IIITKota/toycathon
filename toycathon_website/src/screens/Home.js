@@ -4,6 +4,7 @@ function Home(){
     return (
         <div>
             <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
+            <img src="assets/img/first.gif"></img>
     <div id="heroCarousel" class="container carousel carousel-fade" data-ride="carousel">
 
       <div class="carousel-item active">

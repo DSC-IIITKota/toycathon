@@ -758,10 +758,9 @@ section {
 }
 
 #footer p {
-  font-size: 15;
-  font-style: italic;
+  
   padding: 0;
-  margin: 0 0 40px 0;
+  margin: 0 0 10px 0;
 }
 
 #footer .social-links {
@@ -795,4 +794,33 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+.speakers{
+  justify-content: space-around;
+}
+.speak_card{
+  width:18rem;
+  margin: 10px;
+  text-align: center;
+}
+
+.speak_card .card-body{
+  background-color: #4c3e6d;
+}
+.speak_card p{
+  color: white;
+  font-weight: bold;
+  font-family:"Raleway"
+}
+
+.footer-info{
+  display:flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.footer-info .info1{
+  width:15rem;
+  font-family: "Raleway";
+  font-weight:bold;
 }

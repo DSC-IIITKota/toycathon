@@ -19,7 +19,7 @@ function Header() {
         <header id="header">
             <div class="container">
                 <nav>
-                    <div class="nav-brand"><h3>Hackathon</h3></div>
+                    <div class="nav-brand"><h3>Animate-2021</h3></div>
                     <div class="menu-icons open">
                         <i onClick={toggler} class="icons ion-md-menu"></i>
                     </div>

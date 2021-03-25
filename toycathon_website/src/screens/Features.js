@@ -48,7 +48,9 @@ function Features(){
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-1.png" alt="" class="img-fluid"></img>
+                <img src="assets/img/demo3.png" alt="" class="img-fluid"></img>
+
+
               </div>
             </div>
           </div>
@@ -66,7 +68,7 @@ function Features(){
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-2.png" alt="" class="img-fluid"></img>
+                <img src="assets/img/demo5.png" alt="" class="img-fluid"></img>
               </div>
             </div>
           </div>
@@ -86,7 +88,8 @@ function Features(){
                 
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-3.png" alt="" class="img-fluid"></img>
+                <img src="assets/img/demo4.png" alt="" class="img-fluid"></img>
+              
               </div>
             </div>
           </div>
@@ -100,7 +103,7 @@ function Features(){
                   <li><i class="ri-check-double-line"></i> Empowering and Ingenious:&nbsp;Enabling possibilities and opportunities for students to deliver innovative solutions to real world daunting problems along with harnessing creativity and different visions and perspective of each individual towards present problems.</li></ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-4.png" alt="" class="img-fluid"></img>
+                <img src="assets/img/demo6.png" alt="" class="img-fluid"></img>
               </div>
             </div>
           </div>

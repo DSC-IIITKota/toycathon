@@ -7,7 +7,7 @@ import Extra from './screens/Extra.js'
 import "./style.css";
 import Footer from './screens/Footer.js';
 import Faq from './screens/Faq.js';
-import Services from './screens/Services'
+import Servicesb from './screens/Servicesb'
 import Pricing from './screens/Pricing.js';
 import Testimonial from './screens/Testimonial.js';
 import Header from "./screens/Header.js";
@@ -22,7 +22,7 @@ function App() {
         <About></About>
         <Features></Features>
         <Extra></Extra>
-        <Services></Services>
+        <Servicesb></Servicesb>
         <Testimonial></Testimonial>
         <Pricing></Pricing>
         <Faq></Faq>

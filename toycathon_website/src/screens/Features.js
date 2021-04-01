@@ -58,7 +58,7 @@ function Features(){
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>CRITERIA</h3>
-                <p>
+                <p class="font-italic">
                 The criteria for judging are as follows:
                 </p>
                 <ul>
@@ -76,7 +76,7 @@ function Features(){
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>PARTICIPATION PERKS</h3>
-                <p>
+                <p class="font-italic">
                 What you would gain from participating?
                 </p>
                 <ul>
@@ -97,7 +97,7 @@ function Features(){
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>SERVICES</h3>
-                <p> What do we offer ?</p>
+                <p class="font-italic"> What do we offer ?</p>
                 <ul>
                   <li><i class="ri-check-double-line"></i> Serve and build for community</li>
                   <li><i class="ri-check-double-line"></i> Empowering and Ingenious:&nbsp;Enabling possibilities and opportunities for students to deliver innovative solutions to real world daunting problems along with harnessing creativity and different visions and perspective of each individual towards present problems.</li></ul>

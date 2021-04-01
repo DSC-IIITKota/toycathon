@@ -9,7 +9,9 @@ function Pricing(){
         <p>Sponsers</p>
       </div>
 
-      <div class="row">
+      <h3 style={{padding:"0px 40px"}}> Coming Soon ...</h3>
+
+      {/* <div class="row">
 
         <div class="col-lg-3 col-md-6">
           <div class="box" data-aos="zoom-in">
@@ -22,9 +24,7 @@ function Pricing(){
               <li class="na">Pharetra massa</li>
               <li class="na">Massa ultricies mi</li>
             </ul>
-            {/* <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div> */}
+            
           </div>
         </div>
 
@@ -39,9 +39,7 @@ function Pricing(){
               <li>Pharetra massa</li>
               <li class="na">Massa ultricies mi</li>
             </ul>
-            {/* <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div> */}
+            
           </div>
         </div>
 
@@ -56,15 +54,13 @@ function Pricing(){
               <li>Pharetra massa</li>
               <li>Massa ultricies mi</li>
             </ul>
-            {/* <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div> */}
+            
           </div>
         </div>
 
         <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
           <div class="box" data-aos="zoom-in" data-aos-delay="300">
-            {/* <span class="advanced">Advanced</span> */}
+            
             <h3>Ultimate</h3>
             <h4><sup>$</sup>49<span> / month</span></h4>
             <ul>
@@ -74,13 +70,11 @@ function Pricing(){
               <li>Pharetra massa</li>
               <li>Massa ultricies mi</li>
             </ul>
-            {/* <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div> */}
+            
           </div>
         </div>
 
-      </div>
+      </div> */}
 
     </div>
   </section>)

@@ -40,7 +40,7 @@ return(
               <p class="description">Design a Dynamic moving toy or animation for teenagers with hearing impairment and wanting to learn about musical notes and beats.</p>
               <br></br>
               <h4 class="title"><a href="">Overview</a></h4>
-              <p class="description">Young Children struggle to remember letter sounds and thus face problems in reading. Children are expected to associate letter/s with sounds. For instance, in the word “Purse” the initial sound is “P”. Inability to be able to associate the word with sound leads to problems in reading among children and it helps to make links between the unfamiliar print words to the spoken language. The objective here is to enhance children’s early learning so that they can easily learn and associate letter/sound association and get prepared for early literacy.</p>
+              <p class="description">A moving/vibrating toy may be designed to convert the auditory signal of musical notes and patterns,visuals so as to make people with hearing impairments be able to enjoy and understand music through a different sensory experience</p>
             </div>
           </div>
 

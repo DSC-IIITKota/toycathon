@@ -19,7 +19,7 @@ function Header() {
         <header id="header">
             <div class="container">
                 <nav>
-                    <div class="nav-brand"><h3>Animate</h3></div>
+                    <div class="nav-brand"><h3></h3></div>
                     <div class="menu-icons open">
                         <i onClick={toggler} class="icons ion-md-menu"></i>
                     </div>
@@ -34,7 +34,7 @@ function Header() {
                             <a href="#about" class="nav-link-item">About Us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#services" class="nav-link-item">Speakers</a>
+                            <a href="#testimonials" class="nav-link-item">Speakers</a>
                         </li>
                         <li class="nav-item">
                             <a href="#pricing" class="nav-link-item">Sponsers</a>

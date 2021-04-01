@@ -8,9 +8,10 @@ function Testimonial(){
           <div class="section-title" data-aos="zoom-out">
             <h2>Speakers</h2>
             <p>Our Guests</p>
-          </div>
+        </div>
+          <h5 class="titles" style={{padding: "0px 10px"}}> Stay Tuned ...</h5>
 
-          <div class="row speakers">
+          {/* <div class="row speakers">
             <div class="card speak_card" data-aos="zoom-in" >
               <img class="card-img-top" src="assets/img/testimonials/testimonials-1.jpg" alt="Card image cap"></img>
               <div class="card-body">
@@ -31,7 +32,7 @@ function Testimonial(){
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
             </div>
-          </div>
+          </div> */}
           
   
         </div>

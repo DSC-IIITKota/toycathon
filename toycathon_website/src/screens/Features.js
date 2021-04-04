@@ -28,7 +28,7 @@ function Features(){
           <li class="nav-item-fea col-3" data-aos="zoom-in" data-aos-delay="300">
             <a class="nav-link" data-toggle="tab" href="#tab-4">
             <i class="ri-service-fill"></i>
-              <h4 class="d-none d-lg-block">Services</h4>
+              <h4 class="d-none d-lg-block">Purpose</h4>
             </a>
           </li>
         </ul>

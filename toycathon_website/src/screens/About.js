@@ -6,26 +6,26 @@ function About(){
       <div class="container">
 
         <div class="section-title" data-aos="zoom-out">
-          <h2>New to the Challenge?</h2>
-          <p>What is a Hackathon?</p>
+          <h2>About Us</h2>
+          <p>Who are we? </p>
         </div>
 
         <div class="row content" data-aos="fade-up">
           <div class="col-lg-6">
             <p>
-            Hackathon is an event of any duration where people come together to solve real-life problems providing a technical solution to it. Hackathons are an incredible way to:
+            Google Developer Student Clubs are community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC: 
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Bring your community together</li>
+              <li><i class="ri-check-double-line"></i> Students grow their knowledge in a peer-to-peer learning environment </li>
               <li><i class="ri-check-double-line"></i> Learn new skills and latest technology out there</li>
               <li><i class="ri-check-double-line"></i> Share ideas, collaborate and build amazing projects</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-            A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build & share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science!
+            Developer Student Clubs IIIT Kota, powered by Google Developers, is a diverse community of coding enthusiasts and student developers to learn and grow in a peer-to-peer learning environment. It provides opportunities to gain knowledge on developer technologies, have hands-on experience of building real world applications via workshops and events. We teach various technical skills to build innovative minds that encourage students in making prototypes, real-time projects and to provide solutions for local businesses and their community. 
             </p>
-            <a href="#cta" class="btn-learn-more">Learn More</a>
+            <a href="https://in.linkedin.com/company/developer-student-clubs-dsc-iiit-kota" class="btn-learn-more">Learn More</a>
           </div>
         </div>
 

@@ -64,7 +64,7 @@ function Features(){
                 <ul>
                   <li><i class="ri-check-double-line"></i> Originality of the idea, design and functionality and implementation of the idea in a real-time scenario.</li>
                   <li><i class="ri-check-double-line"></i> Judging is based on the software only (web/mobile app and software hack) and any hardware presented to complement the software will not add to the participant's score.</li>
-                  <li><i class="ri-check-double-line"></i> Deadline for registration: 15th January 2021.</li>
+                  <li><i class="ri-check-double-line"></i> Deadline for registration: 17th April 2021.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -88,7 +88,7 @@ function Features(){
                 
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/demo4.png" alt="" class="img-fluid"></img>
+                <img src="pngdemo.png" alt="" class="img-fluid"></img>
               
               </div>
             </div>
@@ -96,7 +96,7 @@ function Features(){
           <div class="tab-pane" id="tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>SERVICES</h3>
+                <h3>PURPOSE</h3>
                 <p class="font-italic"> What do we offer ?</p>
                 <ul>
                   <li><i class="ri-check-double-line"></i> Serve and build for community</li>

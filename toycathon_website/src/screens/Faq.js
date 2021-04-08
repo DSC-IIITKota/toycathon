@@ -55,9 +55,9 @@ function Faq(){
 </p>
             </div>
           </li>
-          <li data-aos="fade-up" data-aos-delay="500">
-            <a data-toggle="collapse" href="#faq5" class="collapsed">Still got questions? <i class="icofont-simple-up"></i></a>
-            <div id="faq5" class="collapse" data-parent=".faq-list">
+          <li data-aos="fade-up" data-aos-delay="600">
+            <a data-toggle="collapse" href="#faq6" class="collapsed">Still got questions? <i class="icofont-simple-up"></i></a>
+            <div id="faq6" class="collapse" data-parent=".faq-list">
               <p>
               Contact us at dsc@iiitkota.ac.in and our team would be happy to help you and answer your questions.</p>
             </div>

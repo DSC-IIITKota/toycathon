@@ -16,7 +16,7 @@ function Pricing(){
             {/* <h3>Free</h3> */}
             <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
 
-            <h4>Skillenza</h4>
+            <h4 class="spon-head">Skillenza</h4>
             <h6>(Platform Partner)</h6>
             
           </div>
@@ -27,7 +27,7 @@ function Pricing(){
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/codechef.jpg"></img>
 
-              <h4>Codechef</h4>
+              <h4 class="spon-head">Codechef</h4>
               <h6>(Community Partner)</h6>
               
             </div>
@@ -38,7 +38,7 @@ function Pricing(){
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
 
-              <h4>Skillenza</h4>
+              <h4 class="spon-head">Skillenza</h4>
               <h6>(Title Partner)</h6>
               
             </div>

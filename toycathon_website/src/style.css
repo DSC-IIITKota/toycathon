@@ -194,7 +194,7 @@ section {
 
 .section-title h2::after {
     content: "";
-    width: 120px;
+    width: 90px;
     height: 1px;
     display: inline-block;
     background: #AEABC4;
@@ -344,6 +344,7 @@ section {
 }
 
 .features .tab-pane h3 {
+    margin-top: 10px;
     font-weight: 600;
     font-size: 26px;
 }
@@ -762,7 +763,11 @@ section {
     color: #fff;
 }
 
-
+ .pricing .spon-head{
+    margin-top: 25px;
+    margin-bottom: 0px;
+    font-size: 28px;
+}
 /*--------------------------------------------------------------
 # F.A.Q
 --------------------------------------------------------------*/
@@ -806,17 +811,13 @@ section {
     font-size: 15px;
 }
 
-.faq .faq-list a.collapse {
-    color: #AEABC4;
-}
+
 
 .faq .faq-list a.collapsed {
-    color: #343a40;
+    color: #fff;
 }
 
-.faq .faq-list a.collapsed:hover {
-    color: #e67890;
-}
+
 
 .faq .faq-list a.collapsed i::before {
     content: "\eab2" !important;

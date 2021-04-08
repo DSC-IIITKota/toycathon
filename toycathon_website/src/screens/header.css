@@ -130,6 +130,7 @@ nav {
     .nav-item {
         margin: 20px 13px;
     }
+    
 }
 
 @media screen and (max-width: 670px) {
@@ -142,4 +143,8 @@ nav {
     .nav-list {
         width: 15rem !important;
     }
+}
+
+.open{
+    margin-top: -16px;
 }

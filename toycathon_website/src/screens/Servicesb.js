@@ -47,17 +47,16 @@ return(
 
           <div class="col-lg-12 col-md-6">
             <div class="icon-box" data-aos="zoom-in-left">
-              <div class="icon"><i class="las la-vihara" ></i></div>
-              <h4 class="title"><a href="">Theme : Indian Culture and History</a></h4>
-              <p class="description">Design toys/games/animation highlighting contribution of Indian sages towards Science, Maths and Literature.</p>
-              <br></br>
+              <div class="icon">
+                <i class="las la-dumbbell"></i>
+              </div>
+              <h4 class="title"><a href="">Theme : Sports and Health-Fitness</a></h4>
+              <p class="description">Design a toy/game for a group of 30+ years age who have stiff muscular movements and have been advised by doctors to exercise.</p><br></br>
               <h4 class="title"><a href="">Overview</a></h4>
-              <p class="description">Famous Indian Sages like Acharya Kanad, Acharya Patanjali and many more have contributed enormously for the development of Science, Maths and Literature but the younger generations are not aware of their work.Games/Toys/Simulations can be developed highlighting their work and emphasizing India’s rich academic traditions.</p>
-            </div>
-          </div>
+              <p class="description">A toy/game may be designed, which makes it necessary for a user to move/rotate their muscular organs, making it an exercise/medicinal toy for those who find their  movement stiffened and less able due to any anonymous reasons.</p>
+              </div>
+              </div>
         </div>
-          
-
       </div>
     </section>
 )

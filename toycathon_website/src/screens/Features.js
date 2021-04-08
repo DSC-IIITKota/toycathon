@@ -42,7 +42,7 @@ function Features(){
                   The guidelines for teams are as follows:
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> The number of members per team can be from a minimum of 1 to a maximum of 3.</li>
+                  <li><i class="ri-check-double-line"></i> The number of members per team can be from a minimum of 1 to a maximum of 4.</li>
                   <li><i class="ri-check-double-line"></i> The hackathon is open to all the college students.</li>
                   <li><i class="ri-check-double-line"></i>You must link to a public code repository for your project.</li>
                 </ul>

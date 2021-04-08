@@ -44,7 +44,7 @@ function Features(){
                 <ul>
                   <li><i class="ri-check-double-line"></i> The number of members per team can be from a minimum of 1 to a maximum of 4.</li>
                   <li><i class="ri-check-double-line"></i> The hackathon is open to all the college students.</li>
-                  <li><i class="ri-check-double-line"></i>You must link to a public code repository for your project.</li>
+                  <li><i class="ri-check-double-line"></i>You must make sure that the resources you use/code you submit have public access.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -80,10 +80,12 @@ function Features(){
                 What you would gain from participating?
                 </p>
                 <ul>
-                
-                  <li><i class="ri-check-double-line"></i> Awesome swags</li>
-                  <li><i class="ri-check-double-line"></i> Participation certificate</li>
-                  <li><i class="ri-check-double-line"></i> Unforgettable skills and experience achieved</li>
+                  <li><i class="ri-check-double-line"></i>Host talks, or webinars about emerging technologies & computer science field.</li>
+                  <li><i class="ri-check-double-line"></i> Exciting prizes like badges, and schwags in webinars and after completion of hackathon.</li>
+                  <li><i class="ri-check-double-line"></i> Suitable for beginners and intermediates with no registration cost.</li>
+                  <li><i class="ri-check-double-line"></i> Stamp your efforts and get certified by DSC IIIT Kota for participation.</li>
+                  <li><i class="ri-check-double-line"></i> Winning team of Animate will be awarded cash prizes along with certificates.</li>
+
                 </ul>
                 
               </div>
@@ -99,8 +101,14 @@ function Features(){
                 <h3>PURPOSE</h3>
                 <p class="font-italic"> What do we offer ?</p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Serve and build for community</li>
-                  <li><i class="ri-check-double-line"></i> Empowering and Ingenious:&nbsp;Enabling possibilities and opportunities for students to deliver innovative solutions to real world daunting problems along with harnessing creativity and different visions and perspective of each individual towards present problems.</li></ul>
+                  <li><i class="ri-check-double-line"></i>Opportunity of rapid innovation of ideas, business development, platform growth.</li>
+                  <li><i class="ri-check-double-line"></i> Medium to showcase your ideas among the brightest minds in tech.</li>
+                  <li><i class="ri-check-double-line"></i> Platform for the innovators or entrepreneurs of tomorrow to start today towards smarter India.</li>
+                  <li><i class="ri-check-double-line"></i> Enhance technical skills to build innovative minds that encourage students in making prototypes, real-time projects and to provide solutions for any real-time problem.</li>
+                  <li><i class="ri-check-double-line"></i> A diverse platform for coding enthusiasts and student developers to learn and grow.</li>
+                  <li><i class="ri-check-double-line"></i>Opportunity to gain knowledge on developer technologies, project building and experience of building real world applications.</li>
+                  </ul>
+
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/demo6.png" alt="" class="img-fluid"></img>

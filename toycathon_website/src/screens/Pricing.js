@@ -5,7 +5,7 @@ function Pricing(){
     <div class="container">
 
       <div class="section-title" data-aos="zoom-out">
-        <h2>...</h2>
+        <h2>Our Benefactors</h2>
         <p>Sponsors</p>
       </div>
 

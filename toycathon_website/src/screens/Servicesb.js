@@ -7,7 +7,7 @@ return(
 
         <div class="section-title" data-aos="zoom-out">
           <h2>The Challenge</h2>
-          <p>Problem Statements</p>
+          <p className="probHead">Problem Statements</p>
         </div>
 
         <div class="row">
@@ -23,6 +23,7 @@ return(
           </div>
           
           <div class="col-lg-12 col-md-6">
+            <hr className="firstLine"/>
             <div class="icon-box" data-aos="zoom-in-left">
               <div class="icon"><i class="las la-book" ></i></div>
               <h4 class="title"><a href="">Theme : Academics and Enhanced Learning</a></h4>
@@ -34,6 +35,7 @@ return(
           </div>
           
           <div class="col-lg-12 col-md-6">
+            <hr className="firstLine"/>
             <div class="icon-box" data-aos="zoom-in-left">
               <div class="icon"><i class="las la-wheelchair" ></i></div>
               <h4 class="title"><a href="">Theme : Able for Disables</a></h4>
@@ -46,6 +48,7 @@ return(
 
 
           <div class="col-lg-12 col-md-6">
+            <hr className="firstLine"/>
             <div class="icon-box" data-aos="zoom-in-left">
               <div class="icon">
                 <i class="las la-dumbbell"></i>
@@ -54,6 +57,7 @@ return(
               <p class="description">Design a toy/game for a group of 30+ years age who have stiff muscular movements and have been advised by doctors to exercise.</p><br></br>
               <h4 class="title"><a href="">Overview</a></h4>
               <p class="description">A toy/game may be designed, which makes it necessary for a user to move/rotate their muscular organs, making it an exercise/medicinal toy for those who find their  movement stiffened and less able due to any anonymous reasons.</p>
+              
               </div>
               </div>
         </div>

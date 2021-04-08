@@ -27,6 +27,7 @@ function Home(){
                   class="btn-get-started animate__animated animate__fadeInUp scrollto"
                 >
                   Register with Skillenza
+                  <img className="logo_sk" src="assets/img/skillenza_icon.png"></img>
                 </a>
               </div>
             </div>

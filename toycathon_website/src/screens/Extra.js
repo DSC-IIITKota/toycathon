@@ -4,6 +4,7 @@ function Extra(){
     return(
         <section id="cta" class="cta">
       <div class="container">
+        <hr />
 
         <div class="row" data-aos="zoom-out">
           <div class="col-lg-9 text-center text-lg-left">
@@ -14,7 +15,7 @@ function Extra(){
             <a class="cta-btn align-middle" href="https://skillenza.com/challenge/animate-dsciiitkota">Register</a>
           </div>
         </div>
-
+        <hr className="second"/>
       </div>
     </section>
     )

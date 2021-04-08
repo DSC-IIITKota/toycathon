@@ -19,8 +19,8 @@ function Header() {
         <header id="header">
             <div class="container">
                 <nav>
-                    <div class="nav-brand"><h3></h3></div>
-                    <div class="menu-icons open">
+                <div class="nav-brand"><img style={{width:'90px',height:'110px', marginTop: '-12px'}} src="asd.png"></img></div>                   
+                 <div class="menu-icons open">
                         <i onClick={toggler} class="icons ion-md-menu"></i>
                     </div>
                     <ul class="nav-list">

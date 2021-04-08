@@ -13,9 +13,9 @@ function Testimonial(){
 
           {/* <div class="row speakers">
             <div class="card speak_card" data-aos="zoom-in" >
-              <img class="card-img-top" src="assets/img/testimonials/testimonials-1.jpg" alt="Card image cap"></img>
+              <img class="card-img-top" src="assets/img/codechef.jpg" alt="Card image cap"></img>
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text"></p>
               </div>
             </div>
 

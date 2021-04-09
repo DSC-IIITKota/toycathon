@@ -19,7 +19,7 @@ function Header() {
         <header id="header">
             <div class="container">
                 <nav>
-                <div class="nav-brand"><img class="ani-logo" style={{width:'80px',height:'100px', marginTop: '-15px'}} src="asd.png"></img></div>                   
+                <div class="nav-brand"><a href="#hero"><img class="ani-logo" style={{width:'80px',height:'100px', marginTop: '-15px'}} src="asd.png"></img></a></div>                   
                  <div class="menu-icons open">
                         <i onClick={toggler} class="icons ion-md-menu"></i>
                     </div>

@@ -111,8 +111,9 @@ h6 {
 }
 
 #hero h2:hover {
-    font-size: 60px;
+    font-size: 55px;
     color: rgb(119, 255, 92);
+    transition: all 0.3s ease-in-out;
 }
 
 #hero p {
@@ -163,6 +164,45 @@ h6 {
     }
     #hero h2 {
         font-size: 28px;
+    }
+}
+
+@media (max-width: 400px) {
+    #hero h2 {
+        font-size: 25px;
+    }
+    #hero p{
+        font-size: 20px !important;
+    }
+    #hero .logo_sk{
+        height: 30px;
+        width: 30px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        background-color: #fff;
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 360px) {
+    #hero h2 {
+        font-size: 23px;
+    }
+    #hero p{
+        font-size: 17px !important;
+    }
+
+    #hero a{
+        font-size: 15px !important;
+    }
+
+    #hero .logo_sk{
+        height: 30px;
+        width: 30px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        background-color: #fff;
+        margin-left: 10px;
     }
 }
 
@@ -287,6 +327,7 @@ section {
 
 .features .nav-tabs {
     border: 0;
+    margin-top: 10px;
 }
 
 .features .nav-link {
@@ -340,7 +381,7 @@ section {
 }
 
 .features .tab-content {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .features .tab-pane h3 {
@@ -356,7 +397,7 @@ section {
 }
 
 .features .tab-pane ul li {
-    padding-bottom: 10px;
+    padding-bottom: 15px;
 }
 
 .features .tab-pane ul i {
@@ -380,7 +421,9 @@ section {
 
 .cta hr{
     background-color: #fff;
+    margin-top: -30px;
     margin-bottom: 100px;
+    
 }
 
 .cta hr.second{
@@ -479,12 +522,6 @@ section {
     margin-bottom: 40px;
     position: relative;
     overflow: hidden;
-    /* border-radius: 10px;
-    background: #fff;
-    box-shadow: 0 2px 29px 0 rgba(68, 88, 144, 0.12);
-    transition: all 0.1s ease-in-out; */
-    /* width: 100%;
-    height: 90%; */
 }
 
 .services .firstLine{
@@ -501,11 +538,6 @@ section {
     margin-bottom: 70px;
 }
 
-/* .services .icon-box:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 2px 35px 0 rgba(68, 88, 144, 0.2);
-} */
-
 .services .icon {
     position: absolute;
     left: 0px;
@@ -513,7 +545,7 @@ section {
 }
 
 .services .icon i {
-    font-size: 64px;
+    font-size: 69px;
     line-height: 1;
     transition: 0.1s;
     color: #e94266;
@@ -680,16 +712,8 @@ section {
     margin-bottom: 20px;
 }
 
-.pricing h4 sup {
+.pricing h6{
     font-size: 20px;
-    top: -15px;
-    left: -3px;
-}
-
-.pricing h4 span {
-    color: #bababa;
-    font-size: 16px;
-    font-weight: 300;
 }
 
 .pricing ul {
@@ -868,6 +892,10 @@ section {
     width: 36px;
     height: 36px;
     transition: 0.3s;
+}
+
+#footer .number{
+    font-weight: 400;
 }
 
 #footer .social-links a:hover {

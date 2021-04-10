@@ -38,9 +38,9 @@ function Footer(){
       
       
       <div class="social-links">
-        <a href="https://www.instagram.com/dsciiitkota/" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://twitter.com/dsc_iiitkota" class="instagram"><i class="bx bxl-twitter"></i></a>
-        <a href="https://in.linkedin.com/company/developer-student-clubs-dsc-iiit-kota" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.instagram.com/dsciiitkota/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://twitter.com/dsc_iiitkota" target="_blank" class="instagram"><i class="bx bxl-twitter"></i></a>
+        <a href="https://in.linkedin.com/company/developer-student-clubs-dsc-iiit-kota" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
   </footer>

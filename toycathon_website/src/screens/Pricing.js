@@ -22,16 +22,18 @@ function Pricing(){
           </div>
         </div>
 
-        <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-        <div class="box" data-aos="zoom-in">
+        <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/codechef.jpg"></img>
+              <img className="sponsor" src="/assets/img/iiitians_2.jfif"></img>
 
-              <h4 class="spon-head">Codechef</h4>
+              <h4 class="spon-head">IIITians Network</h4>
               <h6>(Community Partner)</h6>
               
             </div>
         </div>
+
+       
 
         <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
           <div class="box" data-aos="zoom-in">
@@ -43,6 +45,20 @@ function Pricing(){
               
             </div>
         </div>
+
+        <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+        <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/codechef.jpg"></img>
+
+              <h4 class="spon-head">Codechef</h4>
+              <h6>(Community Partner)</h6>
+              
+            </div>
+        </div>
+
+        
+        
 
         
         {/*

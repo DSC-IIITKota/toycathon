@@ -24,6 +24,7 @@ function Home(){
                 </p>
                 <a
                   href="https://skillenza.com/challenge/animate-dsciiitkota"
+                  target="_blank"
                   class="btn-get-started animate__animated animate__fadeInUp scrollto"
                 >
                   Register with Skillenza

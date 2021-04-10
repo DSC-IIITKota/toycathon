@@ -34,7 +34,7 @@ function Faq(){
             <a data-toggle="collapse" href="#faq3" class="collapsed">Is there any registration fee? <i class="icofont-simple-up"></i></a>
             <div id="faq3" class="collapse" data-parent=".faq-list">
               <p>
-              No, registration is completely free of cost. Just fill the form and register via DevFolio providing basic details and you're done. .hack is to drive a social impact through technology and emphasis will be placed on alleviating lost culture and heritage through research and collaboration.
+              No, registration is completely free of cost. Just fill the form and register via Skillenza providing basic details and you're done. Animate'21 is to drive a social impact through technology and emphasis will be placed on alleviating lost culture and heritage through research and collaboration.
               </p>
             </div>
           </li>
@@ -43,7 +43,7 @@ function Faq(){
             <a data-toggle="collapse" href="#faq4" class="collapsed">Can I participate without a team? <i class="icofont-simple-up"></i></a>
             <div id="faq4" class="collapse" data-parent=".faq-list">
               <p>
-              No, it is a team event. Participants need to form a team of minimum two and maximum four members before registration.
+               Participants need to form a team of minimum one and maximum four members before registration.
 </p>
             </div>
           </li>

@@ -268,8 +268,11 @@ section {
 
 .about .container p{
     color: #fff;
+    
 }
-
+.about .content p{
+    font-size: 17px;
+}
 .about .content ul {
     list-style: none;
     padding: 0;
@@ -278,6 +281,7 @@ section {
 .about .content ul li {
     padding-left: 28px;
     position: relative;
+    font-size: 17px;
 }
 
 .about .content ul li+li {
@@ -398,6 +402,7 @@ section {
 
 .features .tab-pane ul li {
     padding-bottom: 15px;
+    font-size: 17px;
 }
 
 .features .tab-pane ul i {
@@ -832,7 +837,7 @@ section {
 
 .faq .faq-list p {
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 

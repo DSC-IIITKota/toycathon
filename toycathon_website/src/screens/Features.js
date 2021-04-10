@@ -42,6 +42,7 @@ function Features(){
                   The guidelines for teams are as follows:
                 </p>
                 <ul>
+                <li><i class="ri-check-double-line"></i> The hackathon is open to all the college students.</li>
                   <li><i class="ri-check-double-line"></i> The number of members per team can be from a minimum of 1 to a maximum of 4.</li>
                   <li><i class="ri-check-double-line"></i> The hackathon is open to all the college students.</li>
                   <li><i class="ri-check-double-line"></i>You must make sure that the resources you use/code you submit have public access.</li>
@@ -63,6 +64,9 @@ function Features(){
                 </p>
                 <ul>
                   <li><i class="ri-check-double-line"></i> Originality of the idea, design and functionality and implementation of the idea in a real-time scenario.</li>
+                  <li><i class="ri-check-double-line"></i> Useful and fits to the theme chosen</li>
+                  <li><i class="ri-check-double-line"></i> Realistic capability and the level of innovation</li>
+                  <li><i class="ri-check-double-line"></i> We don't expect a market ready product by the end of hackathon but make sure you have a functional prototype of what your idea is supposed to look like</li>
                   <li><i class="ri-check-double-line"></i> Judging is based on the software only (web/mobile app and software hack) and any hardware presented to complement the software will not add to the participant's score.</li>
                   <li><i class="ri-check-double-line"></i> Deadline for registration: 17th April 2021.</li>
                 </ul>
@@ -85,7 +89,6 @@ function Features(){
                   <li><i class="ri-check-double-line"></i> Suitable for beginners and intermediates with no registration cost.</li>
                   <li><i class="ri-check-double-line"></i> Stamp your efforts and get certified by DSC IIIT Kota for participation.</li>
                   <li><i class="ri-check-double-line"></i> Winning team of Animate will be awarded cash prizes along with certificates.</li>
-
                 </ul>
                 
               </div>

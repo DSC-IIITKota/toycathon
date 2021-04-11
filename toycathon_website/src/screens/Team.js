@@ -53,7 +53,7 @@ function Team(){
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/vinita.jpeg"></img>
               <h4 class="team-name">Dr. Vinita Tiwari</h4>
-              <h6>Convener , IIIT Kota</h6>
+              <h6>Convener-DSC IIIT Kota</h6>
               
             </div>
         </div>

@@ -38,9 +38,9 @@ function Features(){
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>GUIDELINES</h3>
-                <p class="font-italic">
+                <h5>
                   The guidelines for teams are as follows:
-                </p>
+                </h5>
                 <ul>
                 <li><i class="ri-check-double-line"></i> The hackathon is open to all the college students.</li>
                   <li><i class="ri-check-double-line"></i> The number of members per team can be from a minimum of 1 to a maximum of 4.</li>

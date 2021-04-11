@@ -30,7 +30,7 @@ function Team(){
               <img className="team-img" src="/assets/img/amit.jpeg"></img>
 
               <h4 class="team-name">Dr. Amit Kumar</h4>
-              <h6>Assistant Professor , IIIT Kota</h6>
+              <h6>Assistant Professor, IIIT Kota</h6>
               
               
             </div>
@@ -41,7 +41,7 @@ function Team(){
               <img className="team-img" src="/assets/img/basantsir.jpg"></img>
 
               <h4 class="team-name">Dr. Basant Agarwal</h4>
-              <h6>Assistant Professor , IIIT Kota</h6>
+              <h6>Assistant Professor, IIIT Kota</h6>
              
          
             
@@ -53,7 +53,11 @@ function Team(){
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/vinita.jpeg"></img>
               <h4 class="team-name">Dr. Vinita Tiwari</h4>
-              <h6>Convener-DSC IIIT Kota</h6>
+              <h6>Convener-DSC IIIT Kota 
+              <h6>Assistant Professor, IIIT Kota</h6>
+              </h6>
+              
+
               
             </div>
         </div>
@@ -65,7 +69,7 @@ function Team(){
                 <img className="team-img" src="/assets/img/gyan.jpeg"></img>
 
                 <h4 class="team-name">Dr. Gyan Singh Yadav</h4>
-                <h6>Assistant Professor , IIIT Kota</h6>
+                <h6>Assistant Professor, IIIT Kota</h6>
               
             
             </div>
@@ -77,7 +81,7 @@ function Team(){
               <img className="team-img" src="/assets/img/anand.jpg"></img>
 
               <h4 class="team-name">Dr. Anand Agarwal</h4>
-              <h6>Assistant Professor , IIIT Kota</h6>
+              <h6>Assistant Professor, IIIT Kota</h6>
              
              
             

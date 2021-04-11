@@ -11,6 +11,7 @@ import Servicesb from './screens/Servicesb'
 import Pricing from './screens/Pricing.js';
 import Testimonial from './screens/Testimonial.js';
 import Header from "./screens/Header.js";
+import Team from "./screens/Team.js"
 
 function App() {
   
@@ -23,6 +24,7 @@ function App() {
         <Features></Features>
         <Extra></Extra>
         <Servicesb></Servicesb>
+        <Team></Team>
         <Testimonial></Testimonial>
         <Pricing></Pricing>
         <Faq></Faq>

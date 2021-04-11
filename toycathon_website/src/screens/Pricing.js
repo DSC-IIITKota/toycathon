@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Pricing(){
-    return(<section id="pricing" class="pricing">
+    return(<section id="sponsors" class="pricing">
     <div class="container">
 
       <div class="section-title" data-aos="zoom-out">
@@ -25,7 +25,7 @@ function Pricing(){
         <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
           <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/iiitians_2.jfif"></img>
+              <img className="sponsor" src="/assets/img/iiit.png"></img>
 
               <h4 class="spon-head">IIITians Network</h4>
               <h6>(Community Partner)</h6>
@@ -79,7 +79,6 @@ function Pricing(){
         </div> */}
 
       </div>
-
     </div>
   </section>)
 }

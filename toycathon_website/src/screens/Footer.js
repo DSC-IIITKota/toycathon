@@ -100,7 +100,7 @@ function Footer(){
               <i class="bx bxl-twitter"></i>
             </a>
             <a
-              href="https://in.linkedin.com/company/developer-student-clubs-dsc-iiit-kota"
+              href="https://www.linkedin.com/in/developer-student-club-iiit-kota"
               target="_blank"
               class="linkedin"
             >

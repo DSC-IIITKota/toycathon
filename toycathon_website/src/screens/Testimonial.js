@@ -2,7 +2,7 @@ import React from 'react';
 
 function Testimonial(){
     return(
-        <section id="testimonials" class="testimonials">
+        <section id="speakers" class="testimonials">
         <div class="container">
   
           <div class="section-title" data-aos="zoom-out">

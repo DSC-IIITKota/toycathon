@@ -37,7 +37,7 @@ function Header() {
                             <a href="#testimonials" class="nav-link-item">Speakers</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#pricing" class="nav-link-item">Sponsers</a>
+                            <a href="#pricing" class="nav-link-item">Sponsors</a>
                         </li>
                         <li class="nav-item">
                             <a href="#faq" class="nav-link-item">FAQ</a>

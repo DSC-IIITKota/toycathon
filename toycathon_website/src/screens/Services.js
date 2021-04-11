@@ -19,8 +19,8 @@ return (
               <a href="">Theme : Health and Creative Thinking</a>
             </h4>
             <p class="description">
-              To develop a Multiplayer Gaming Application/Animation that focuses
-              on enhancing Emotional Intelligence and fight depression
+                To develop a Multiplayer Gaming Application/Animation that
+                focuses on enhancing Emotional Intelligence and fight depression
             </p>
           </div>
         </div>

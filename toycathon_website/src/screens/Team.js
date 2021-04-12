@@ -93,7 +93,7 @@ function Team(){
         <h2 style={{textAlign:"center",fontSize:"30px",fontWeight:"600", marginBottom: "50px"}}>The Team</h2>
 
       <div class="row team"> 
-        <div class="col-lg-12 col-md-12">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
             {/* <h3>Free</h3> */}
             <img className="team-img" src="/assets/img/sanatan2.jpeg"></img>

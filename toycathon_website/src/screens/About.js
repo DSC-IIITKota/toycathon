@@ -25,7 +25,7 @@ function About(){
             <p>
             Developer Student Clubs IIIT Kota, powered by Google Developers, is a diverse community of coding enthusiasts and student developers to learn and grow in a peer-to-peer learning environment. It provides opportunities to gain knowledge on developer technologies, have hands-on experience of building real world applications via workshops and events. We teach various technical skills to build innovative minds that encourage students in making prototypes, real-time projects and to provide solutions for local businesses and their community. 
             </p>
-            <a href="https://www.linkedin.com/in/developer-student-club-iiit-kota" target="_blank"  class="btn-learn-more">Learn More</a>
+            <a href="https://dsc.community.dev/indian-institute-of-information-technology-kota/" target="_blank"  class="btn-learn-more">Learn More</a>
           </div>
         </div>
 

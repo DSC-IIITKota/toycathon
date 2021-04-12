@@ -699,8 +699,8 @@ section {
 }
 
 .pricing img{
-    height: 210px;
-    width: 210px;
+    height: 170px;
+    width: 170px;
 }
 
 .pricing p{
@@ -725,7 +725,8 @@ section {
 }
 
 .pricing h6{
-    font-size: 20px;
+    font-size: 18px;
+    font-weight: 200;
 }
 
 .pricing ul {
@@ -802,7 +803,7 @@ section {
  .pricing .spon-head{
     margin-top: 25px;
     margin-bottom: 0px;
-    font-size: 28px;
+    font-size: 25px;
 }
 
 .pricing .team-name{

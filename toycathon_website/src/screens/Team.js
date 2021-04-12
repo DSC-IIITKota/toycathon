@@ -8,7 +8,7 @@ function Team(){
         <h2>...</h2>
         <p>Organizers</p>
       </div>
-      <h2 style={{textAlign:"center",fontSize:"28px",fontWeight:"bold"}}>Our Patron</h2>
+      <h2 style={{textAlign:"center",fontSize:"30px",fontWeight:"600", marginBottom: "50px", marginTop: "70px"}}>Our Patron</h2>
       <div class="row patron">
       <div class="col-lg-4 col-md-6">
           <div class="box team-box" data-aos="zoom-in">
@@ -20,8 +20,8 @@ function Team(){
           </div>
         </div>
       </div>
-      <br></br>
-      <h2 style={{textAlign:"center",fontSize:"28px",fontWeight:"bold"}}>Faculty Co-ordinators</h2>
+        <hr style={{background: "#fff", marginTop: "70px", marginBottom: "70px"}}></hr>
+      <h2 style={{textAlign:"center",fontSize:"30px",fontWeight:"600", marginBottom: "50px"}}>Faculty Co-ordinators</h2>
       <div class="row faculty"> 
         
         <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
@@ -88,12 +88,12 @@ function Team(){
             </div>
         </div>
         </div>
-        <br></br>
+        <hr style={{background: "#fff", marginTop: "70px", marginBottom: "70px"}}></hr>
 
-        <h2 style={{textAlign:"center",fontWeight:"bold",fontSize:"28px"}}>The Team</h2>
+        <h2 style={{textAlign:"center",fontSize:"30px",fontWeight:"600", marginBottom: "50px"}}>The Team</h2>
 
       <div class="row team"> 
-        <div class="col-lg-4 col-md-6">
+        <div class="col-lg-12 col-md-12">
           <div class="box team-box" data-aos="zoom-in">
             {/* <h3>Free</h3> */}
             <img className="team-img" src="/assets/img/sanatan2.jpeg"></img>
@@ -105,7 +105,7 @@ function Team(){
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/priyanshi.jpg"></img>
@@ -128,7 +128,7 @@ function Team(){
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/akshat.jpeg"></img>
@@ -139,7 +139,7 @@ function Team(){
             
             </div>
         </div>
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/mradul.jpeg"></img>
@@ -150,7 +150,7 @@ function Team(){
               
             </div>
         </div>
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/nikunj.jpeg"></img>
@@ -161,7 +161,7 @@ function Team(){
             
             </div>
         </div>
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/shubham.jpeg"></img>
@@ -172,7 +172,7 @@ function Team(){
             
             </div>
         </div>
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/gaurav.jpeg"></img>
@@ -184,7 +184,7 @@ function Team(){
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
           <div class="box team-box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="team-img" src="/assets/img/saksham.jpeg"></img>

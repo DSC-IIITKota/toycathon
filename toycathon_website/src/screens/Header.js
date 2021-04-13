@@ -34,13 +34,13 @@ function Header() {
                             <a href="#about" class="nav-link-item">About Us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#team" class="nav-link-item">Organizers</a>
-                        </li>
-                        <li class="nav-item">
                             <a href="#speakers" class="nav-link-item">Speakers</a>
                         </li>
                         <li class="nav-item">
                             <a href="#sponsors" class="nav-link-item">Sponsors</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#team" class="nav-link-item">Organizers</a>
                         </li>
                         <li class="nav-item">
                             <a href="#faq" class="nav-link-item">FAQ</a>

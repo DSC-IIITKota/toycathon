@@ -24,9 +24,9 @@ function App() {
         <Features></Features>
         <Extra></Extra>
         <Servicesb></Servicesb>
-        <Team></Team>
         <Testimonial></Testimonial>
         <Pricing></Pricing>
+        <Team></Team>
         <Faq></Faq>
       </main>
       <Footer></Footer>

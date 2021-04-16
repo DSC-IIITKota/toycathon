@@ -65,7 +65,7 @@ function Footer(){
               <p>Mail us!</p>
               <p>
                 <a
-                  style={{ color: "#f50136" }}
+                  style={{ color: "#FFDE59" }}
                   href="mailto:dsc@iiitkota.ac.in"
                   target="_top"
                 >
@@ -74,7 +74,7 @@ function Footer(){
               </p>
               <p>
                 <a
-                  style={{ color: "#f50136" }}
+                  style={{ color: "#FFDE59" }}
                   href="mailto:organizers@aniamte-hack.live"
                   target="_top"
                 >

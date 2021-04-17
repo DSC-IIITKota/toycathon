@@ -68,7 +68,7 @@ function Features(){
                   <li><i class="ri-check-double-line"></i> Realistic capability and the level of innovation</li>
                   <li><i class="ri-check-double-line"></i> We don't expect a market ready product by the end of hackathon but make sure you have a functional prototype of what your idea is supposed to look like</li>
                   <li><i class="ri-check-double-line"></i> Judging is based on the software only (web/mobile app and software hack) and any hardware presented to complement the software will not add to the participant's score.</li>
-                  <li><i class="ri-check-double-line"></i> Deadline for registration: 17th April 2021.</li>
+                  <li><i class="ri-check-double-line"></i> Deadline for registration: 19th April 2021.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">

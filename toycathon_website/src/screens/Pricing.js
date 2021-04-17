@@ -9,9 +9,18 @@ function Pricing(){
         <p>Sponsors</p>
       </div>
 
-      <div class="row">
+      <div class="row sponsor-cards">
+      <div class="col-lg-4 col-md-6 ">
+        <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/agora.png"></img>
 
-        <div class="col-lg-3 col-md-6">
+              <h4 class="spon-head">Agora</h4>
+              <h6>(Gold Sponsor)</h6>
+              
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
           <div class="box" data-aos="zoom-in">
             {/* <h3>Free</h3> */}
             <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
@@ -21,8 +30,8 @@ function Pricing(){
             
           </div>
         </div>
-
-        <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+        
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
           <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/iiit.png"></img>
@@ -35,7 +44,7 @@ function Pricing(){
 
        
 
-        <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
           <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
@@ -46,7 +55,7 @@ function Pricing(){
             </div>
         </div>
 
-        <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+        <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
         <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/codechef.jpg"></img>
@@ -56,6 +65,7 @@ function Pricing(){
               
             </div>
         </div>
+        
 
         
         

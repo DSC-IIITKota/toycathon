@@ -820,7 +820,9 @@ section {
     margin-bottom: 0px;
     font-size:19px;
 }
-
+.pricing .sponsor-cards{
+    justify-content: center;
+}
 .pricing .team-img{
     width:150px;
     height:150px;
@@ -834,6 +836,8 @@ section {
 .pricing .patron,.faculty,.team{
     justify-content: center;
 }
+
+
 
 /*--------------------------------------------------------------
 # F.A.Q

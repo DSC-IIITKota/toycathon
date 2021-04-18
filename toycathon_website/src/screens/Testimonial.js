@@ -8,13 +8,15 @@ function Testimonial(){
           <div class="section-title" data-aos="zoom-out">
             <h2>Speakers</h2>
             <p>Our Guests</p>
-        </div>
+          </div>
 
           <div class="row speakers">
             <div class="card speak_card">
               <img class="card-img-top" src="assets/img/speaker1.jpg" alt="Card image cap"></img>
               <div class="card-body">
-                <p class="card-text">Sanath Murali</p>
+                <h4 class="card-text">Sanath Murali</h4>
+                <p>Student Ambassador</p>
+                <p>(Agora.io)</p>
               </div>
             </div>
 

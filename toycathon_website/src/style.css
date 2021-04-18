@@ -684,6 +684,27 @@ section {
     }
 }
 
+.speakers .speak_card {
+    border-color:#191636;
+    background-color: #191636;
+}
+
+.speakers .card-img-top{
+    border-radius: 20%;
+}
+
+.card-body h4{
+    font-family: "Poppins", sans-serif;    
+    font-weight: 600;
+    font-size: 25px;
+
+}
+.speakers .card-body p{
+    font-family: "Questrial", sans-serif;
+    color: #fff ;
+    margin: 0px;
+    font-size:18px;    
+}
 
 /*--------------------------------------------------------------
 # Pricing

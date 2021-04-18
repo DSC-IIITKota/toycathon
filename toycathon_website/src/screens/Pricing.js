@@ -15,7 +15,7 @@ function Pricing(){
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/github120.png"></img>
 
-              <h4 class="spon-head">Github</h4>
+              <h4 class="spon-head">GitHub</h4>
               <h6>(Gold Sponsor)</h6>
               
             </div>

@@ -13,11 +13,9 @@ function Pricing(){
       <div class="col-lg-4 col-md-6 ">
         <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/github120.png"></img>
-
+              <img className="sponsor" src="/assets/img/githubtext.png"></img>
               <h4 class="spon-head">GitHub</h4>
-              <h6>(Gold Sponsor)</h6>
-              
+              <h6>(Gold Sponsor)</h6>            
             </div>
         </div>
       <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 ">
@@ -27,6 +25,16 @@ function Pricing(){
 
               <h4 class="spon-head">Agora</h4>
               <h6>(Gold Sponsor)</h6>
+              
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/iiit.png"></img>
+
+              <h4 class="spon-head">IIITians Network</h4>
+              <h6>(Community Partner)</h6>
               
             </div>
         </div>
@@ -41,29 +49,11 @@ function Pricing(){
           </div>
         </div>
         
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-          <div class="box" data-aos="zoom-in">
-              {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/iiit.png"></img>
-
-              <h4 class="spon-head">IIITians Network</h4>
-              <h6>(Community Partner)</h6>
-              
-            </div>
-        </div>
+        
 
        
 
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-          <div class="box" data-aos="zoom-in">
-              {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
-
-              <h4 class="spon-head">Skillenza</h4>
-              <h6>(Title Partner)</h6>
-              
-            </div>
-        </div>
+        
 
         <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
         <div class="box" data-aos="zoom-in">
@@ -75,7 +65,16 @@ function Pricing(){
               
             </div>
         </div>
-        
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
+
+              <h4 class="spon-head">Skillenza</h4>
+              <h6>(Title Partner)</h6>
+              
+            </div>
+        </div>
 
         
         

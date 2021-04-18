@@ -13,6 +13,16 @@ function Pricing(){
       <div class="col-lg-4 col-md-6 ">
         <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/github120.png"></img>
+
+              <h4 class="spon-head">Github</h4>
+              <h6>(Gold Sponsor)</h6>
+              
+            </div>
+        </div>
+      <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 ">
+        <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/agora.png"></img>
 
               <h4 class="spon-head">Agora</h4>

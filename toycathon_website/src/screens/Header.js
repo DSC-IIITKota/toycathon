@@ -31,6 +31,9 @@ function Header() {
                             <a href="#home" class="nav-link-item current">Home</a>
                         </li>
                         <li class="nav-item">
+                            <a href="/timeline" class="nav-link-item current">Schedule</a>
+                        </li>
+                        <li class="nav-item">
                             <a href="#about" class="nav-link-item">About Us</a>
                         </li>
                         <li class="nav-item">

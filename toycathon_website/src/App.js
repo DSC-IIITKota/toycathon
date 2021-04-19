@@ -12,26 +12,22 @@ import Pricing from './screens/Pricing.js';
 import Testimonial from './screens/Testimonial.js';
 import Header from "./screens/Header.js";
 import Team from "./screens/Team.js"
-
+import Timeline from "./screens/Timeline"
+import MainScreen from "./screens/MainScreen"
+import {
+  BrowserRouter as Router,
+  Route
+} from "react-router-dom";
 function App() {
   
   return (
-    <div>
-    <Header></Header>
-    <Home></Home>
-      <main id="main">
-        <About></About>
-        <Features></Features>
-        <Extra></Extra>
-        <Servicesb></Servicesb>
-        <Testimonial></Testimonial>
-        <Pricing></Pricing>
-        <Team></Team>
-        <Faq></Faq>
-      </main>
-      <Footer></Footer>
-      
-    </div>
+    <Router>
+      <div>
+        <Route exact={true} path="/" component={MainScreen}></Route>
+        <Route exact={true} path="/timeline" component={Timeline}></Route>
+
+      </div>
+    </Router>
 
   );
 }

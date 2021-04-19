@@ -93,7 +93,7 @@ h6 {
     z-index: 999;
 }
 
-#hero .logo_sk{
+#hero .logo_sk {
     height: 40px;
     width: 40px;
     border: 2px solid #fff;
@@ -111,7 +111,7 @@ h6 {
 }
 
 #hero h2:hover {
-    font-size: 55px;
+    /* font-size: 55px; */
     color: rgb(119, 255, 92);
     transition: all 0.3s ease-in-out;
 }
@@ -172,10 +172,10 @@ h6 {
     #hero h2 {
         font-size: 25px;
     }
-    #hero p{
+    #hero p {
         font-size: 20px !important;
     }
-    #hero .logo_sk{
+    #hero .logo_sk {
         height: 30px;
         width: 30px;
         border: 2px solid #fff;
@@ -189,15 +189,13 @@ h6 {
     #hero h2 {
         font-size: 23px;
     }
-    #hero p{
+    #hero p {
         font-size: 17px !important;
     }
-
-    #hero a{
+    #hero a {
         font-size: 15px !important;
     }
-
-    #hero .logo_sk{
+    #hero .logo_sk {
         height: 30px;
         width: 30px;
         border: 2px solid #fff;
@@ -252,10 +250,10 @@ section {
     color: #4c3e6d;
 }
 
-.section-title .spon-btn{
+.section-title .spon-btn {
     margin-bottom: 0px;
-
 }
+
 
 /*--------------------------------------------------------------
 # About
@@ -271,13 +269,14 @@ section {
     font-size: 26px;
 }
 
-.about .container p{
+.about .container p {
     color: #fff;
-    
 }
-.about .content p{
+
+.about .content p {
     font-size: 17px;
 }
+
 .about .content ul {
     list-style: none;
     padding: 0;
@@ -429,14 +428,13 @@ section {
     padding: 80px 0;
 }
 
-.cta hr{
+.cta hr {
     background-color: #fff;
     margin-top: -30px;
     margin-bottom: 100px;
-    
 }
 
-.cta hr.second{
+.cta hr.second {
     margin-bottom: 0;
     margin-top: 90px;
 }
@@ -449,7 +447,6 @@ section {
 
 .cta p {
     color: #fff;
-
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
@@ -535,16 +532,16 @@ section {
     overflow: hidden;
 }
 
-.services .firstLine{
+.services .firstLine {
     background-color: #fff;
     margin-bottom: 70px;
 }
 
-.services .probHead{
+.services .probHead {
     color: #fff;
 }
 
-.services .lastLine{
+.services .lastLine {
     background-color: #fff;
     margin-bottom: 70px;
 }
@@ -583,7 +580,6 @@ section {
 .services .description {
     font-size: 17px;
     font-family: 'Questrial', sans-serif;
-
     margin-left: 40px;
     line-height: 24px;
     margin-bottom: 0;
@@ -603,7 +599,7 @@ section {
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
 }
 
-.testimonials p{
+.testimonials p {
     color: #fff;
 }
 
@@ -685,26 +681,27 @@ section {
 }
 
 .speakers .speak_card {
-    border-color:#191636;
+    border-color: #191636;
     background-color: #191636;
 }
 
-.speakers .card-img-top{
+.speakers .card-img-top {
     border-radius: 20%;
 }
 
-.card-body h4{
-    font-family: "Poppins", sans-serif;    
+.card-body h4 {
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-size: 25px;
+}
 
-}
-.speakers .card-body p{
+.speakers .card-body p {
     font-family: "Questrial", sans-serif;
-    color: #fff ;
+    color: #fff;
     margin: 0px;
-    font-size:18px;    
+    font-size: 18px;
 }
+
 
 /*--------------------------------------------------------------
 # Pricing
@@ -718,12 +715,12 @@ section {
     overflow: hidden;
 }
 
-.pricing img{
+.pricing img {
     height: 170px;
     width: 170px;
 }
 
-.pricing p{
+.pricing p {
     color: #fff;
 }
 
@@ -754,7 +751,7 @@ section {
     margin-bottom: 20px;
 }
 
-.pricing h6{
+.pricing h6 {
     font-size: 18px;
     font-weight: 200;
 }
@@ -830,34 +827,38 @@ section {
     color: #fff;
 }
 
- .pricing .spon-head{
+.pricing .spon-head {
     margin-top: 25px;
     margin-bottom: 0px;
     font-size: 25px;
 }
 
-.pricing .team-name{
+.pricing .team-name {
     margin-top: 25px;
     margin-bottom: 0px;
-    font-size:19px;
+    font-size: 19px;
 }
-.pricing .sponsor-cards{
+
+.pricing .sponsor-cards {
     justify-content: center;
 }
-.pricing .team-img{
-    width:150px;
-    height:150px;
-    border:4px solid #fff;
+
+.pricing .team-img {
+    width: 150px;
+    height: 150px;
+    border: 4px solid #fff;
     border-radius: 50%;
 }
 
-.pricing .team-box h6{
+.pricing .team-box h6 {
     font-size: 16px;
 }
-.pricing .patron,.faculty,.team{
+
+.pricing .patron,
+.faculty,
+.team {
     justify-content: center;
 }
-
 
 
 /*--------------------------------------------------------------
@@ -869,11 +870,9 @@ section {
     font-family: 'Questrial', sans-serif;
 }
 
-#faq p{
+#faq p {
     color: #fff;
 }
-
-
 
 .faq .faq-list {
     padding: 0;
@@ -903,13 +902,9 @@ section {
     font-size: 17px;
 }
 
-
-
 .faq .faq-list a.collapsed {
     color: #fff;
 }
-
-
 
 .faq .faq-list a.collapsed i::before {
     content: "\eab2" !important;
@@ -962,10 +957,9 @@ section {
     transition: 0.3s;
 }
 
-#footer .number{
+#footer .number {
     font-weight: 400;
 }
-
 
 #footer .social-links a:hover {
     background: #ffffff;

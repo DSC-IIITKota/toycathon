@@ -23,7 +23,7 @@ function Pricing(){
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/agora.png"></img>
 
-              <h4 class="spon-head">Agora</h4>
+              <h4 class="spon-head">agora.io</h4>
               <h6>(Gold Sponsor)</h6>
               
             </div>

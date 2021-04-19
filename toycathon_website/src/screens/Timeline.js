@@ -1,15 +1,16 @@
 import React from 'react'
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
+import '../style.css'
 const Timeline = () => {
     return (
         <VerticalTimeline>
+
   <VerticalTimelineElement
-    className="vertical-timeline-element--work"
+    className="timeline-card vertical-timeline-element--work"
     contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-    icon={<i class="las la-hourglass-start la-3x" style={{padding:"5px"}}></i>}>
+    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}>
     <h3 className="vertical-timeline-element-title">Registration Start</h3>
     <h4 className="vertical-timeline-element-subtitle">Date : 25th March 2021</h4>
     <p style={{fontSize:"18px"}}>
@@ -18,10 +19,9 @@ const Timeline = () => {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    contentStyle={{ background: '#ff007b', color: '#fff' }}
 
-    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-    icon={<i class="las la-hourglass-end la-3x" style={{padding:"5px"}}></i>}
+    iconStyle={{ background: '#ff007b', color: '#fff' }}
   >
     <h3 className="vertical-timeline-element-title">Registration End</h3>
     <h4 className="vertical-timeline-element-subtitle">Date : 26th April 2021</h4>
@@ -33,7 +33,7 @@ const Timeline = () => {
     className="vertical-timeline-element--work"
     contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-    icon={<i class="lab la-gripfire la-3x" style={{padding:"5px"}}></i>}
+    
   >
     <h3 className="vertical-timeline-element-title">Inaugration Session</h3>
     <h4 className="vertical-timeline-element-subtitle">Date : 27th April 2021</h4>
@@ -43,10 +43,9 @@ const Timeline = () => {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    contentStyle={{ background: '#ff007b', color: '#fff' }}
 
-    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-    icon={<i class="las la-file-powerpoint la-3x" style={{padding:"5px"}}></i>}
+    iconStyle={{ background: '#ff007b', color: '#fff' }}
   >
     <h3 className="vertical-timeline-element-title">Presentation Submission</h3>
     <h4 className="vertical-timeline-element-subtitle">Date : 28th April 2021</h4>
@@ -58,8 +57,7 @@ const Timeline = () => {
     className="vertical-timeline-element--education"
     contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
 
-    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-    icon={<i class="las la-cogs la-3x" style={{padding:"5px"}}></i>}
+    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
   >
     <h3 className="vertical-timeline-element-title">Prototype Implementation</h3>
     <h4 className="vertical-timeline-element-subtitle">Date : 1st-2nd May 2021</h4>
@@ -69,10 +67,9 @@ const Timeline = () => {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--education"
-    contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    contentStyle={{ background: '#ff007b', color: '#fff' }}
 
-    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-    icon={<i class="las la-trophy la-3x" style={{padding:"5px"}}></i>}
+    iconStyle={{ background: '#ff007b', color: '#fff' }}
   >
     <h3 className="vertical-timeline-element-title">Final Results</h3>
     <h4 className="vertical-timeline-element-subtitle">Date : 3rd-4th May 2021</h4>
@@ -83,7 +80,6 @@ const Timeline = () => {
   
   <VerticalTimelineElement
     iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
-    icon={<i class="las la-star la-3x" style={{padding:"5px"}}></i>}
   />
 </VerticalTimeline>
     )

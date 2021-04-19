@@ -67,10 +67,10 @@ h6 {
 
 
 /*--------------------------------------------------------------
-# Hero Section
+# home Section
 --------------------------------------------------------------*/
 
-#hero {
+#home {
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -81,7 +81,7 @@ h6 {
     background-repeat: no-repeat;
 }
 
-#hero .carousel-container {
+#home .carousel-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,7 +93,7 @@ h6 {
     z-index: 999;
 }
 
-#hero .logo_sk {
+#home .logo_sk {
     height: 40px;
     width: 40px;
     border: 2px solid #fff;
@@ -102,7 +102,7 @@ h6 {
     margin-left: 10px;
 }
 
-#hero h2 {
+#home h2 {
     color: #fff;
     margin-bottom: 5%;
     font-size: 48px;
@@ -110,13 +110,13 @@ h6 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
-#hero h2:hover {
+#home h2:hover {
     /* font-size: 55px; */
     color: rgb(119, 255, 92);
     transition: all 0.3s ease-in-out;
 }
 
-#hero p {
+#home p {
     width: 80%;
     -webkit-animation-delay: 0.4s;
     animation-delay: 0.4s;
@@ -124,7 +124,7 @@ h6 {
     color: #fff;
 }
 
-#hero .btn-get-started {
+#home .btn-get-started {
     font-family: 'Questrial', sans-serif;
     font-weight: 900;
     font-size: 18px;
@@ -142,7 +142,7 @@ h6 {
     border: 2px solid #FFDE59;
 }
 
-#hero .btn-get-started:hover {
+#home .btn-get-started:hover {
     background: #fff;
     color: #311839;
     text-decoration: none;
@@ -150,32 +150,32 @@ h6 {
 }
 
 @media (min-width: 1024px) {
-    #hero p {
+    #home p {
         width: 60%;
     }
-    #hero .carousel-control-prev,
-    #hero .carousel-control-next {
+    #home .carousel-control-prev,
+    #home .carousel-control-next {
         width: 5%;
     }
 }
 
 @media (max-width: 768px) {
-    #hero .carousel-container {
+    #home .carousel-container {
         height: 90vh;
     }
-    #hero h2 {
+    #home h2 {
         font-size: 28px;
     }
 }
 
 @media (max-width: 400px) {
-    #hero h2 {
+    #home h2 {
         font-size: 25px;
     }
-    #hero p {
+    #home p {
         font-size: 20px !important;
     }
-    #hero .logo_sk {
+    #home .logo_sk {
         height: 30px;
         width: 30px;
         border: 2px solid #fff;
@@ -186,16 +186,16 @@ h6 {
 }
 
 @media (max-width: 360px) {
-    #hero h2 {
+    #home h2 {
         font-size: 23px;
     }
-    #hero p {
+    #home p {
         font-size: 17px !important;
     }
-    #hero a {
+    #home a {
         font-size: 15px !important;
     }
-    #hero .logo_sk {
+    #home .logo_sk {
         height: 30px;
         width: 30px;
         border: 2px solid #fff;
@@ -471,37 +471,37 @@ section {
 }
 
 @media (max-width: 920px) {
-    #hero img {
+    #home img {
         width: 160%;
     }
 }
 
 @media (max-width: 769px) {
-    #hero {
+    #home {
         height: 100vh;
     }
-    #hero img {
+    #home img {
         width: 200%;
     }
 }
 
 @media (max-width: 640px) {
-    #hero img {
+    #home img {
         width: 240%;
     }
 }
 
 @media (max-width: 530px) {
-    #hero img {
+    #home img {
         width: 280%;
     }
 }
 
 @media (max-width: 430px) {
-    #hero img {
+    #home img {
         width: 350%;
     }
-    #hero {
+    #home {
         height: 95vh;
     }
 }
@@ -1019,4 +1019,10 @@ section {
 
 .footer-info a {
     color: #FFDE59;
+}
+
+@media screen and (max-width: 1170) {
+    .timeline-card i .timeline-icon{
+        font-size: 10px !important;
+    }
 }

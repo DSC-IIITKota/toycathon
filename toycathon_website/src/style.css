@@ -850,6 +850,20 @@ section {
     border-radius: 50%;
 }
 
+.pricing .reach {
+    margin-top: 10px;
+}
+
+.pricing .linkedin-team {
+    font-size: 32px;
+    font-weight: 200;
+}
+
+.pricing .linkedin-team:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
 .pricing .team-box h6 {
     font-size: 16px;
 }

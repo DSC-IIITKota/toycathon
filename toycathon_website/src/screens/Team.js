@@ -99,8 +99,11 @@ function Team(){
             <img className="team-img" src="/assets/img/sanatan2.jpeg"></img>
             <h4 class="team-name">Sanatan Shrivastava</h4>
             <h6>Lead Organizer</h6>
-            
-            
+            <div className="reach"><a
+              href="https://www.linkedin.com/in/sanatan-shrivastava-04a327171"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div>
             
           </div>
         </div>
@@ -111,9 +114,11 @@ function Team(){
               <img className="team-img" src="/assets/img/priyanshi.jpg"></img>
               <h4 class="team-name">Priyanshi Mehta</h4>
               <h6>Content Coordinator</h6>
-              
-              
-            </div>
+              <div className="reach"><a
+              href="https://www.linkedin.com/in/priyanshi-mehta-247181191"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div></div>
         </div>
 
         <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
@@ -123,8 +128,11 @@ function Team(){
 
                 <h4 class="team-name">Mehul Saxena</h4>
                 <h6>Graphic Designer/Social Media</h6>
-                
-            
+                <div className="reach"><a
+              href="https://www.linkedin.com/in/mehul-saxena-19b098192"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div>
             </div>
         </div>
 
@@ -135,8 +143,11 @@ function Team(){
 
               <h4 class="team-name">Akshat Saxena</h4>
               <h6>Technical Team</h6>
-              
-            
+              <div className="reach"><a
+              href="https://www.linkedin.com/in/akshat-saxena-2504121ab/"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div>
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
@@ -146,8 +157,11 @@ function Team(){
 
               <h4 class="team-name">Mradul Agarwal</h4>
               <h6>Technical Team</h6>
-             
-              
+              <div className="reach"><a
+              href="https://www.linkedin.com/in/mradul-agarwal"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+              </div>
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
@@ -157,8 +171,11 @@ function Team(){
 
               <h4 class="team-name">Nikunj Sharma</h4>
               <h6>Technical Team</h6>
-              
-            
+              <div className="reach"><a
+              href="https://www.linkedin.com/in/nikunj-sharma-02"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div>
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
@@ -168,8 +185,11 @@ function Team(){
 
               <h4 class="team-name">Shubham Khandelwal</h4>
               <h6>Technical Team</h6>
-              
-            
+              <div className="reach"><a
+              href="https://www.linkedin.com/in/shubham-khandelwal-328429192"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div>
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 mt-4 mt-md-0">
@@ -179,8 +199,11 @@ function Team(){
 
               <h4 class="team-name">Gaurav Luhariwala</h4>
               <h6>Outreach Co-ordinator</h6>
-              
-            
+              <div className="reach"><a
+              href="https://www.linkedin.com/in/gauravluhariwala"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div>
             </div>
         </div>
 
@@ -191,8 +214,11 @@ function Team(){
 
               <h4 class="team-name">Saksham Taneja</h4>
               <h6>Skillenza Community Partner</h6>
-              
-            
+              <div className="reach"><a
+              href="https://www.linkedin.com/in/tanejasaksham"
+              target="_blank"
+              class="linkedin-team"><i class="lab la-linkedin"></i></a>
+            </div>
             </div>
         </div>
 

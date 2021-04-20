@@ -20,7 +20,6 @@ const Timeline = () => {
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
     contentStyle={{ background: '#ff007b', color: '#fff' }}
-
     iconStyle={{ background: '#ff007b', color: '#fff' }}
   >
     <h3 className="vertical-timeline-element-title">Registration End</h3>

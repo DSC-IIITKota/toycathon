@@ -1,9 +1,12 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import '../style.css'
 const Timeline = () => {
     return (
+      <div className="timeline">
+        <Link to="/"><i class="fas fa-chevron-circle-left"></i></Link>
         <VerticalTimeline>
 
   <VerticalTimelineElement
@@ -81,6 +84,7 @@ const Timeline = () => {
     iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
   />
 </VerticalTimeline>
+</div>
     )
 }
 

@@ -7,6 +7,11 @@ header {
     position: fixed;
 }
 
+.timeLine{
+    background-color: black;
+    z-index: 100;
+}
+
 #header.header-scrolled {
     background: rgba(0, 0, 0, 0.8);
 }

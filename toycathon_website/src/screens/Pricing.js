@@ -34,7 +34,7 @@ function Pricing(){
               <img className="sponsor" src="/assets/img/gfg.png"></img>
 
               <h4 class="spon-head">GeeksforGeeks</h4>
-              <h6>(Title Partner)</h6>
+              <h6>(Title Sponsor)</h6>
               
             </div>
         </div>

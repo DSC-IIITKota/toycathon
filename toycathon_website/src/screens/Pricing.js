@@ -31,9 +31,9 @@ function Pricing(){
         <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
           <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/gfg.png"></img>
+              <a href="https://www.geeksforgeeks.org/" target="_blank" ><img className="sponsor" src="/assets/img/gfg.png"></img></a>
 
-              <h4 class="spon-head">GeeksforGeeks</h4>
+              <a href="https://www.geeksforgeeks.org/" target="_blank"><h4 class="spon-head">GeeksforGeeks</h4></a>
               <h6>(Title Sponsor)</h6>
               
             </div>
@@ -84,6 +84,15 @@ function Pricing(){
               <h4 class="spon-head">IIITians Network</h4>
               <h6>(Community Partner)</h6>
               
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/GMC.png"></img>
+
+              <h4 class="spon-head">Give My Certificate</h4>
+              <h6>(Certification Sponsor)</h6>
             </div>
         </div>
         

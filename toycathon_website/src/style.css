@@ -840,7 +840,7 @@ section {
 }
 
 .pricing .sponsor-cards {
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .pricing .team-img {

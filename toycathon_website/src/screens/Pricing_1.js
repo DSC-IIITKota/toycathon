@@ -8,14 +8,14 @@ function Pricing(){
         <h2>Our Benefactors</h2>
         <p>Sponsors</p>
       </div>
-      <h2 data-aos="zoom-out" style={{textAlign:"center",fontSize:"30px",fontWeight:"600", marginBottom: "20px"}}>Gold Sponsors</h2>
-      <hr data-aos="zoom-out" style={{width:"200px",background:"#fff",marginBottom:"20px"}}></hr>
-      <div class="row sponsor-cards gold">
+
+      <div class="row sponsor-cards">
       <div class="col-lg-4 col-md-6 ">
         <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <img className="sponsor" src="/assets/img/githubtext.png"></img>
               <h4 class="spon-head">GitHub</h4>
+              <h6>(Gold Sponsor)</h6>            
             </div>
         </div>
       <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 ">
@@ -24,88 +24,31 @@ function Pricing(){
               <img className="sponsor" src="/assets/img/agora.png"></img>
 
               <h4 class="spon-head">agora.io</h4>
+              <h6>(Gold Sponsor)</h6>
+              
             </div>
-      </div>
-    </div>
-    <h2 data-aos="zoom-out" style={{textAlign:"center",fontSize:"30px",fontWeight:"600",marginTop:"50px", marginBottom: "20px"}}>Silver Sponsors</h2>
-    <hr data-aos="zoom-out" style={{width:"200px",background:"#fff",marginBottom:"20px"}}></hr>
-
-    <div class="row sponsor-cards silver">
+        </div>
         <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
           <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
               <a href="https://www.geeksforgeeks.org/" target="_blank" ><img className="sponsor" src="/assets/img/gfg.png"></img></a>
 
               <a href="https://www.geeksforgeeks.org/" target="_blank"><h4 class="spon-head">GeeksforGeeks</h4></a>
+              <h6>(Title Sponsor)</h6>
               
             </div>
         </div>
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+        
+        <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
           <div class="box" data-aos="zoom-in">
             {/* <h3>Free</h3> */}
             <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
+
             <h4 class="spon-head">Skillenza</h4>
-      
+            <h6>(Platform Partner)</h6>
+            
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-          <div class="box" data-aos="zoom-in">
-            {/* <h3>Free</h3> */}
-            <img className="sponsor" src="/assets/img/dsc.jpeg"></img>
-            <h4 class="spon-head">DSC</h4>
-      
-          </div>
-        </div>
-    </div>
-    <h2 data-aos="zoom-out" style={{textAlign:"center",fontSize:"30px",fontWeight:"600",marginTop:"50px", marginBottom: "20px"}}>Bronze Sponsors</h2>
-    <hr data-aos="zoom-out" style={{width:"200px",background:"#fff",marginBottom:"20px"}}></hr>
-
-    <div class="row sponsor-cards bronze">
-    <div class="col-lg-6 col-md-6 mt-4 mt-md-0">
-        <div class="box" data-aos="zoom-in">
-              {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/codechef.jpg"></img>
-
-              <h4 class="spon-head">Codechef</h4>
-              
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-6 mt-4 mt-md-0">
-          <div class="box" data-aos="zoom-in">
-              {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
-
-              <h4 class="spon-head">Skillenza</h4>
-              
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-6 mt-4 mt-md-0">
-          <div class="box" data-aos="zoom-in">
-              {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/iiit.png"></img>
-
-              <h4 class="spon-head">IIITians Network</h4>
-              
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-6 mt-4 mt-md-0">
-          <div class="box" data-aos="zoom-in">
-              {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/GMC.png"></img>
-
-              <h4 class="spon-head">Give My Certificate</h4>
-            </div>
-        </div>
-    </div>
-
-    </div>
-  </section>)
-}
-export default Pricing;
-
-
-        
-        
         
         
 
@@ -113,4 +56,69 @@ export default Pricing;
 
         
 
+        <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+        <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/codechef.jpg"></img>
+
+              <h4 class="spon-head">Codechef</h4>
+              <h6>(Community Partner)</h6>
+              
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
+
+              <h4 class="spon-head">Skillenza</h4>
+              <h6>(Title Partner)</h6>
+              
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/iiit.png"></img>
+
+              <h4 class="spon-head">IIITians Network</h4>
+              <h6>(Community Partner)</h6>
+              
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
+              {/* <h3>Free</h3> */}
+              <img className="sponsor" src="/assets/img/GMC.png"></img>
+
+              <h4 class="spon-head">Give My Certificate</h4>
+              <h6>(Certification Sponsor)</h6>
+            </div>
+        </div>
         
+        
+        
+
+        
+        {/*
+        <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+          <div class="box" data-aos="zoom-in" data-aos-delay="300">
+            
+            <h3>Ultimate</h3>
+            <h4><sup>$</sup>49<span> / month</span></h4>
+            <ul>
+              <li>Aida dere</li>
+              <li>Nec feugiat nisl</li>
+              <li>Nulla at volutpat dola</li>
+              <li>Pharetra massa</li>
+              <li>Massa ultricies mi</li>
+            </ul>
+            
+          </div>
+        </div> */}
+
+      </div>
+    </div>
+  </section>)
+}
+export default Pricing;

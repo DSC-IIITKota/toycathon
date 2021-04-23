@@ -11,13 +11,13 @@ function Pricing(){
       <h2 data-aos="zoom-out" style={{textAlign:"center",fontSize:"30px",fontWeight:"600", marginBottom: "20px"}}>Gold Sponsors</h2>
       <hr data-aos="zoom-out" style={{width:"200px",background:"#fff",marginBottom:"20px"}}></hr>
       <div class="row sponsor-cards gold">
-      <div class="col-lg-4 col-md-6 ">
+      {/* <div class="col-lg-4 col-md-6 ">
         <div class="box" data-aos="zoom-in">
-              {/* <h3>Free</h3> */}
+               <h3>Free</h3> 
               <img className="sponsor" src="/assets/img/soon.jpg"></img>
               <h4 class="spon-head">GitHub</h4>
             </div>
-        </div>
+        </div> */}
       <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 ">
         <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
@@ -45,14 +45,6 @@ function Pricing(){
             {/* <h3>Free</h3> */}
             <img className="sponsor" src="/assets/img/skillenza.jpeg"></img>
             <h4 class="spon-head">Skillenza</h4>
-      
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-          <div class="box" data-aos="zoom-in">
-            {/* <h3>Free</h3> */}
-            <img className="sponsor" src="/assets/img/dsc.jpeg"></img>
-            <h4 class="spon-head">DSC</h4>
       
           </div>
         </div>
@@ -98,8 +90,24 @@ function Pricing(){
         </div>
     </div>
 
+    <h2 data-aos="zoom-out" style={{textAlign:"center",fontSize:"30px",fontWeight:"600",marginTop:"50px", marginBottom: "20px"}}>Title Sponsors</h2>
+    <hr data-aos="zoom-out" style={{width:"200px",background:"#fff",marginBottom:"20px"}}></hr>
+
+    <div class="row sponsor-cards bronze">
+    <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+          <div class="box" data-aos="zoom-in">
+            {/* <h3>Free</h3> */}
+            <img className="sponsor" src="/assets/img/dsc.jpeg"></img>
+            <h4 class="spon-head">DSC</h4>
+      
+          </div>
+        </div>
     </div>
-  </section>)
+
+
+    </div>
+  </section>
+  )
 }
 export default Pricing;
 

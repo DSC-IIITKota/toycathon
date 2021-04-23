@@ -14,7 +14,7 @@ function Pricing(){
       <div class="col-lg-4 col-md-6 ">
         <div class="box" data-aos="zoom-in">
               {/* <h3>Free</h3> */}
-              <img className="sponsor" src="/assets/img/githubtext.png"></img>
+              <img className="sponsor" src="/assets/img/soon.jpg"></img>
               <h4 class="spon-head">GitHub</h4>
             </div>
         </div>
